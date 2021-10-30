@@ -1,0 +1,4 @@
+C:\Lucio\TallerDeProgramacion\TP_3\obj\Debug\netcoreapp3.1\Ejercicio_1.csprojAssemblyReference.cache
+C:\Lucio\TallerDeProgramacion\TP_3\obj\Debug\netcoreapp3.1\Ejercicio_1.AssemblyInfoInputs.cache
+C:\Lucio\TallerDeProgramacion\TP_3\obj\Debug\netcoreapp3.1\Ejercicio_1.AssemblyInfo.cs
+C:\Lucio\TallerDeProgramacion\TP_3\obj\Debug\netcoreapp3.1\Ejercicio_1.csproj.CoreCompileInputs.cache
